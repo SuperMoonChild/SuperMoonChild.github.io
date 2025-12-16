@@ -2,6 +2,7 @@
 layout: post
 title: 'The Product is the Prophet: How We Used Data to Discover Our SaaS "Magic Number" and Drive Profitable PLG Growth'
 author: "Kylie"
+date: 2025-12-16
 ---
 
 
