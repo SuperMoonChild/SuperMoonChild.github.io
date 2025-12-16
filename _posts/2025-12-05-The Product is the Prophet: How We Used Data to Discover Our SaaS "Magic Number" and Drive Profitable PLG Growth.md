@@ -2,7 +2,7 @@
 layout: post
 title: 'The SaaS "Magic Number": How Data Unlocked Our PLG Growth'
 author: "Kylie"
-date: 2025-12-01
+date: 2025-12-02
 ---
 
 ![SaaS Magic Number Analysis 1](https://github.com/user-attachments/assets/a7ad4fef-92dd-44ce-9b4d-d15a54808a3d)
