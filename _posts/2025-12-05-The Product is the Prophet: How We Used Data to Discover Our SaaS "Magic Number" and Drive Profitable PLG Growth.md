@@ -2,13 +2,18 @@
 layout: post
 title: 'The SaaS "Magic Number": How Data Unlocked Our PLG Growth'
 author: "Kylie"
-date: 2025-12-02
+date: 2025-11-15
 ---
 
 ![SaaS Magic Number Analysis 1](https://github.com/user-attachments/assets/a7ad4fef-92dd-44ce-9b4d-d15a54808a3d)
 
 ![SaaS Magic Number Analysis 2](https://github.com/user-attachments/assets/438fc2d4-334f-4d9c-9f45-c3270ed65fa8)
 
+Everyone talks about **Product-Led Growth (PLG)** as a buzzword, but few have actually looked under the hood.
+
+I’ve spent the last few months deep in the data—building the measurement models and architecting the analytics infrastructure that makes PLG actually work. I’ve learned that finding a **“Magic Number”** isn’t magic at all—it’s a rigorous engineering and data science challenge.
+
+Based on my recent work designing these **dynamic measurement frameworks**, here is a deep dive into how raw data transforms into profitable growth.
 
 ### I. The Data-Driven Evolution of Go-To-Market Strategy
 
